@@ -15,7 +15,7 @@ def extract_keywords(text):
 
 # --- Streamlit UI ---
 st.title("🔍 授業前の未習語チェッカー")
-st.caption("授業準備で作成した例文等に、未習語が含まれていないかを自動チェックします。[使い方はこちら](https://x.com/Ichimai8)")
+st.caption("授業準備で作成した例文等に、未習語が含まれていないかを自動チェックします。[使い方はこちら](https://note.com/ichimai8/n/nd78bdc437fbf)")
 
 
 # 📁 ファイルアップロード
